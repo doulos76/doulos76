@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Nice to see you 👋
+
+--------
+Welcome to my page!
+
+I'm _Dave_, `iOS` App Developer from 🇰🇷 Seoul, Korea, currently living in 🇰🇷 Seoul, Korea.
+
 
 <!--
 **doulos76/doulos76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
